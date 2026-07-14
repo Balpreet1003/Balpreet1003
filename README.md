@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Balpreet Singh</h1>
+<h1 align="left">👋 Hi, I'm Balpreet Singh</h1>
 
-<h3 align="center">
+<h3 align="left">
   An aspiring software engineer passionate about AI, Full-Stack Development, and Backend Engineering.
 </h3>
 
